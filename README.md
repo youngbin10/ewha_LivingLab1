@@ -21,7 +21,7 @@ The project is organized into the following files and folders:
 
 ## Data
 
-This project uses the **MovieLens 1M** dataset, which contains 1 million movie ratings from 6,000 users on 4,000 movies. The dataset includes user ratings, movie information (such as titles and genres), and additional metadata, which is used to generate the embeddings for the recommendation system.
+This project uses the **MovieLens 1M** dataset. The dataset includes user ratings, movie information (such as titles and genres), and additional metadata, which is used to generate the embeddings for the recommendation system.
 
 
 
